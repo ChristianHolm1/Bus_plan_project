@@ -1,1 +1,4074 @@
-{"Line":[{"Product":{"icon":{"res":"prod_gen"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Letbane L2","internalName":"Letbane L2","line":"L2","lineId":"070_275_14_L2","catOut":"Letbane","cls":"2048","operatorCode":"MID","operator":"Midttrafik"},"lineId":"070_275_14_L2","lineName":"Letbane L2","lineNameShort":"L2"},{"Product":{"icon":{"res":"prod_gen"},"operatorInfo":{"name":"Lokaltog A/S","nameS":"LOK","nameN":"LOKB","nameL":"Lokaltog A/S"},"name":"Lokalbane 940R","internalName":"Lokalbane 940R","line":"940R","lineId":"005_000153_940R","catOut":"L","cls":"8","operatorCode":"LOK","operator":"Lokaltog A/S"},"lineId":"005_000153_940R","lineName":"Lokalbane 940R","lineNameShort":"940R"},{"Product":{"icon":{"res":"prod_gen"},"operatorInfo":{"name":"Lokaltog A/S","nameS":"LOK","nameN":"LOKB","nameL":"Lokaltog A/S"},"name":"Lokalbane 950R","internalName":"Lokalbane 950R","line":"950R","lineId":"005_000153_950R","catOut":"L","cls":"8","operatorCode":"LOK","operator":"Lokaltog A/S"},"lineId":"005_000153_950R","lineName":"Lokalbane 950R","lineNameShort":"950R"},{"Product":{"icon":{"res":"prod_comm"},"operatorInfo":{"name":"DSB S-tog","nameS":"DSB","nameN":"DSB","nameL":"DSB S-tog"},"name":"B","internalName":"B","line":"B","lineId":"006_000022_B","catOut":"S-Tog","cls":"16","operatorCode":"DSB","operator":"DSB S-tog"},"lineId":"006_000022_B","lineName":"B","lineNameShort":"B"},{"Product":{"icon":{"res":"prod_comm"},"operatorInfo":{"name":"DSB S-tog","nameS":"DSB","nameN":"DSB","nameL":"DSB S-tog"},"name":"C","internalName":"C","line":"C","lineId":"006_000022_C","catOut":"S-Tog","cls":"16","operatorCode":"DSB","operator":"DSB S-tog"},"lineId":"006_000022_C","lineName":"C","lineNameShort":"C"},{"Product":{"icon":{"res":"prod_comm"},"operatorInfo":{"name":"DSB S-tog","nameS":"DSB","nameN":"DSB","nameL":"DSB S-tog"},"name":"F","internalName":"F","line":"F","lineId":"006_000022_F","catOut":"S-Tog","cls":"16","operatorCode":"DSB","operator":"DSB S-tog"},"lineId":"006_000022_F","lineName":"F","lineNameShort":"F"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Bus 104","internalName":"Bus 104","line":"104","lineId":"013_275_20_104","catOut":"Bus","cls":"32","operatorCode":"MID","operator":"Midttrafik"},"lineId":"013_275_20_104","lineName":"Bus 104","lineNameShort":"104"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Bus 220","internalName":"Bus 220","line":"220","lineId":"013_275_20_220","catOut":"Bus","cls":"32","operatorCode":"MID","operator":"Midttrafik"},"lineId":"013_275_20_220","lineName":"Bus 220","lineNameShort":"220"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 102A","internalName":"Bus 102A","line":"102A","lineId":"043_00006__102A","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"043_00006__102A","lineName":"Bus 102A","lineNameShort":"102A"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 141","internalName":"Bus 141","line":"141","lineId":"013_00006__141","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__141","lineName":"Bus 141","lineNameShort":"141"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 149","internalName":"Bus 149","line":"149","lineId":"013_00006__149","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__149","lineName":"Bus 149","lineNameShort":"149"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 171","internalName":"Bus 171","line":"171","lineId":"013_00006__171","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__171","lineName":"Bus 171","lineNameShort":"171"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 196","internalName":"Bus 196","line":"196","lineId":"013_00006__196","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__196","lineName":"Bus 196","lineNameShort":"196"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 197","internalName":"Bus 197","line":"197","lineId":"013_00006__197","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__197","lineName":"Bus 197","lineNameShort":"197"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 198","internalName":"Bus 198","line":"198","lineId":"013_00006__198","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__198","lineName":"Bus 198","lineNameShort":"198"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 242","internalName":"Bus 242","line":"242","lineId":"013_00006__242","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__242","lineName":"Bus 242","lineNameShort":"242"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 316","internalName":"Bus 316","line":"316","lineId":"013_00006__316","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__316","lineName":"Bus 316","lineNameShort":"316"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 330R","internalName":"Bus 330R","line":"330R","lineId":"013_00006__330R","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__330R","lineName":"Bus 330R","lineNameShort":"330R"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 415","internalName":"Bus 415","line":"415","lineId":"013_00006__415","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__415","lineName":"Bus 415","lineNameShort":"415"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 421","internalName":"Bus 421","line":"421","lineId":"013_00006__421","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__421","lineName":"Bus 421","lineNameShort":"421"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 661R","internalName":"Bus 661R","line":"661R","lineId":"013_00006__661R","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__661R","lineName":"Bus 661R","lineNameShort":"661R"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Bus 802","internalName":"Bus 802","line":"802","lineId":"013_00006__802","catOut":"Bus","cls":"32","operatorCode":"HT","operator":"Movia"},"lineId":"013_00006__802","lineName":"Bus 802","lineNameShort":"802"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 52","internalName":"Bus 52","line":"52","lineId":"013_280_00_52","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_52","lineName":"Bus 52","lineNameShort":"52"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 58","internalName":"Bus 58","line":"58","lineId":"013_280_00_58","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_58","lineName":"Bus 58","lineNameShort":"58"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 68","internalName":"Bus 68","line":"68","lineId":"013_280_00_68","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_68","lineName":"Bus 68","lineNameShort":"68"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 70","internalName":"Bus 70","line":"70","lineId":"013_280_00_70","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_70","lineName":"Bus 70","lineNameShort":"70"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 71","internalName":"Bus 71","line":"71","lineId":"013_280_00_71","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_71","lineName":"Bus 71","lineNameShort":"71"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 103","internalName":"Bus 103","line":"103","lineId":"013_280_00_103","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_103","lineName":"Bus 103","lineNameShort":"103"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 107","internalName":"Bus 107","line":"107","lineId":"013_280_00_107","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_107","lineName":"Bus 107","lineNameShort":"107"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 158","internalName":"Bus 158","line":"158","lineId":"013_280_00_158","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_158","lineName":"Bus 158","lineNameShort":"158"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 208","internalName":"Bus 208","line":"208","lineId":"013_280_00_208","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_208","lineName":"Bus 208","lineNameShort":"208"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 209","internalName":"Bus 209","line":"209","lineId":"013_280_00_209","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_209","lineName":"Bus 209","lineNameShort":"209"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 234","internalName":"Bus 234","line":"234","lineId":"013_280_00_234","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_234","lineName":"Bus 234","lineNameShort":"234"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 265","internalName":"Bus 265","line":"265","lineId":"013_280_00_265","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_265","lineName":"Bus 265","lineNameShort":"265"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 313","internalName":"Bus 313","line":"313","lineId":"013_280_00_313","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_313","lineName":"Bus 313","lineNameShort":"313"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 320","internalName":"Bus 320","line":"320","lineId":"013_280_00_320","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_320","lineName":"Bus 320","lineNameShort":"320"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 321","internalName":"Bus 321","line":"321","lineId":"013_280_00_321","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_321","lineName":"Bus 321","lineNameShort":"321"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 323","internalName":"Bus 323","line":"323","lineId":"013_280_00_323","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_323","lineName":"Bus 323","lineNameShort":"323"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 407","internalName":"Bus 407","line":"407","lineId":"013_280_00_407","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_407","lineName":"Bus 407","lineNameShort":"407"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 417","internalName":"Bus 417","line":"417","lineId":"013_280_00_417","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_417","lineName":"Bus 417","lineNameShort":"417"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 600","internalName":"Bus 600","line":"600","lineId":"013_280_00_600","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_600","lineName":"Bus 600","lineNameShort":"600"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus 840","internalName":"Bus 840","line":"840","lineId":"013_280_00_840","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_840","lineName":"Bus 840","lineNameShort":"840"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bus Tide","internalName":"Bus Tide","line":"Tide","lineId":"013_280_00_Tide","catOut":"Bus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"013_280_00_Tide","lineName":"Bus Tide","lineNameShort":"Tide"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 116","internalName":"Bus 116","line":"116","lineId":"013_245_36_116","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_116","lineName":"Bus 116","lineNameShort":"116"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 147","internalName":"Bus 147","line":"147","lineId":"013_245_36_147","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_147","lineName":"Bus 147","lineNameShort":"147"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 210","internalName":"Bus 210","line":"210","lineId":"013_245_36_210","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_210","lineName":"Bus 210","lineNameShort":"210"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 266","internalName":"Bus 266","line":"266","lineId":"013_245_36_266","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_266","lineName":"Bus 266","lineNameShort":"266"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 460","internalName":"Bus 460","line":"460","lineId":"013_245_36_460","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_460","lineName":"Bus 460","lineNameShort":"460"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 485","internalName":"Bus 485","line":"485","lineId":"013_245_36_485","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_485","lineName":"Bus 485","lineNameShort":"485"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bus 493","internalName":"Bus 493","line":"493","lineId":"013_245_36_493","catOut":"Bus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"013_245_36_493","lineName":"Bus 493","lineNameShort":"493"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Ærø Kommune","nameS":"ÆRØ","nameN":"ÆRØ","nameL":"Ærø Kommune"},"name":"Bus 790","internalName":"Bus 790","line":"790","lineId":"013_520____790","catOut":"Bus","cls":"32","operatorCode":"ÆRØ","operator":"Ærø Kommune"},"lineId":"013_520____790","lineName":"Bus 790","lineNameShort":"790"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 1","internalName":"Bybus 1","line":"1","lineId":"028_280_06_1","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_06_1","lineName":"Bybus 1","lineNameShort":"1"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 1","internalName":"Bybus 1","line":"1","lineId":"028_280_07_1","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_07_1","lineName":"Bybus 1","lineNameShort":"1"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 1","internalName":"Bybus 1","line":"1","lineId":"028_280_10_1","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_10_1","lineName":"Bybus 1","lineNameShort":"1"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 2","internalName":"Bybus 2","line":"2","lineId":"028_280_10_2","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_10_2","lineName":"Bybus 2","lineNameShort":"2"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 12","internalName":"Bybus 12","line":"12","lineId":"028_280_06_12","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_06_12","lineName":"Bybus 12","lineNameShort":"12"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 13","internalName":"Bybus 13","line":"13","lineId":"028_280_06_13","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_06_13","lineName":"Bybus 13","lineNameShort":"13"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 14","internalName":"Bybus 14","line":"14","lineId":"028_280_06_14","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_06_14","lineName":"Bybus 14","lineNameShort":"14"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Bybus 17","internalName":"Bybus 17","line":"17","lineId":"028_280_06_17","catOut":"Bybus","cls":"32","operatorCode":"NT","operator":"NT"},"lineId":"028_280_06_17","lineName":"Bybus 17","lineNameShort":"17"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 1","internalName":"Bybus 1","line":"1","lineId":"028_245_35_1","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_35_1","lineName":"Bybus 1","lineNameShort":"1"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 2","internalName":"Bybus 2","line":"2","lineId":"028_245_35_2","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_35_2","lineName":"Bybus 2","lineNameShort":"2"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 2A","internalName":"Bybus 2A","line":"2A","lineId":"028_245_32_2A","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_32_2A","lineName":"Bybus 2A","lineNameShort":"2A"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 5","internalName":"Bybus 5","line":"5","lineId":"028_245_35_5","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_35_5","lineName":"Bybus 5","lineNameShort":"5"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 7","internalName":"Bybus 7","line":"7","lineId":"028_245_35_7","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_35_7","lineName":"Bybus 7","lineNameShort":"7"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 8","internalName":"Bybus 8","line":"8","lineId":"028_245_35_8","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_35_8","lineName":"Bybus 8","lineNameShort":"8"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 9","internalName":"Bybus 9","line":"9","lineId":"028_245_35_9","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_35_9","lineName":"Bybus 9","lineNameShort":"9"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 18A","internalName":"Bybus 18A","line":"18A","lineId":"028_245_36_18A","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_36_18A","lineName":"Bybus 18A","lineNameShort":"18A"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Bybus 18C","internalName":"Bybus 18C","line":"18C","lineId":"028_245_36_18C","catOut":"Bybus","cls":"32","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"028_245_36_18C","lineName":"Bybus 18C","lineNameShort":"18C"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"X Bus 950X","internalName":"X Bus 950X","line":"950X","lineId":"023_280_00_950X","catOut":"X Bus","cls":"64","operatorCode":"NT","operator":"NT"},"lineId":"023_280_00_950X","lineName":"X Bus 950X","lineNameShort":"950X"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"X Bus 973X","internalName":"X Bus 973X","line":"973X","lineId":"023_280_00_973X","catOut":"X Bus","cls":"64","operatorCode":"NT","operator":"NT"},"lineId":"023_280_00_973X","lineName":"X Bus 973X","lineNameShort":"973X"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Natbus 97N","internalName":"Natbus 97N","line":"97N","lineId":"022_00006__97N","catOut":"Bus","cls":"128","operatorCode":"HT","operator":"Movia"},"lineId":"022_00006__97N","lineName":"Natbus 97N","lineNameShort":"97N"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Natbus 70N","internalName":"Natbus 70N","line":"70N","lineId":"022_280_00_70N","catOut":"Bus","cls":"128","operatorCode":"NT","operator":"NT"},"lineId":"022_280_00_70N","lineName":"Natbus 70N","lineNameShort":"70N"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Natbus 71N","internalName":"Natbus 71N","line":"71N","lineId":"022_280_00_71N","catOut":"Bus","cls":"128","operatorCode":"NT","operator":"NT"},"lineId":"022_280_00_71N","lineName":"Natbus 71N","lineNameShort":"71N"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flexbus 12","internalName":"Flexbus 12","line":"12","lineId":"056_275_30_12","catOut":"Flexbus","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"056_275_30_12","lineName":"Flexbus 12","lineNameShort":"12"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flexbus 21","internalName":"Flexbus 21","line":"21","lineId":"056_275_33_21","catOut":"Flexbus","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"056_275_33_21","lineName":"Flexbus 21","lineNameShort":"21"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flexbus 31","internalName":"Flexbus 31","line":"31","lineId":"056_275_29_31","catOut":"Flexbus","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"056_275_29_31","lineName":"Flexbus 31","lineNameShort":"31"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flexbus 313","internalName":"Flexbus 313","line":"313","lineId":"056_275_20_313","catOut":"Flexbus","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"056_275_20_313","lineName":"Flexbus 313","lineNameShort":"313"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flexbus 330","internalName":"Flexbus 330","line":"330","lineId":"056_275_20_330","catOut":"Flexbus","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"056_275_20_330","lineName":"Flexbus 330","lineNameShort":"330"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flexbus 716","internalName":"Flexbus 716","line":"716","lineId":"056_275_20_716","catOut":"Flexbus","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"056_275_20_716","lineName":"Flexbus 716","lineNameShort":"716"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"FYNBUS","nameS":"FYN","nameN":"FYNBUS","nameL":"FYNBUS"},"name":"Flextur","internalName":"Flextur","line":"Flextur","lineId":"051_242_FX_Flextur","catOut":"Flextur","cls":"256","operatorCode":"FYN","operator":"FYNBUS"},"lineId":"051_242_FX_Flextur","lineName":"Flextur","lineNameShort":"Flextur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"FYNBUS","nameS":"FYN","nameN":"FYNBUS","nameL":"FYNBUS"},"name":"Plustur","internalName":"Plustur","line":"Plustur","lineId":"051_242_FX_Plustur","catOut":"Flextur","cls":"256","operatorCode":"FYN","operator":"FYNBUS"},"lineId":"051_242_FX_Plustur","lineName":"Plustur","lineNameShort":"Plustur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"FYNBUS","nameS":"FYN","nameN":"FYNBUS","nameL":"FYNBUS"},"name":"Telerute","internalName":"Telerute","line":"Telerute","lineId":"051_242_FX_Telerute","catOut":"Flextur","cls":"256","operatorCode":"FYN","operator":"FYNBUS"},"lineId":"051_242_FX_Telerute","lineName":"Telerute","lineNameShort":"Telerute"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"FYNBUS","nameS":"FYN","nameN":"FYNBUS","nameL":"FYNBUS"},"name":"Teletaxi","internalName":"Teletaxi","line":"Teletaxi","lineId":"051_242_FX_Teletaxi","catOut":"Flextur","cls":"256","operatorCode":"FYN","operator":"FYNBUS"},"lineId":"051_242_FX_Teletaxi","lineName":"Teletaxi","lineNameShort":"Teletaxi"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Flextur","internalName":"Flextur","line":"Flextur","lineId":"051_275_FX_Flextur","catOut":"Flextur","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"051_275_FX_Flextur","lineName":"Flextur","lineNameShort":"Flextur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Midttrafik","nameS":"MID","nameN":"MIDT","nameL":"Midttrafik"},"name":"Plustur","internalName":"Plustur","line":"Plustur","lineId":"051_275_FX_Plustur","catOut":"Flextur","cls":"256","operatorCode":"MID","operator":"Midttrafik"},"lineId":"051_275_FX_Plustur","lineName":"Plustur","lineNameShort":"Plustur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Movia","nameS":"HT","nameN":"HT","nameL":"Movia"},"name":"Plustur","internalName":"Plustur","line":"Plustur","lineId":"051_200_FX_Plustur","catOut":"Flextur","cls":"256","operatorCode":"HT","operator":"Movia"},"lineId":"051_200_FX_Plustur","lineName":"Plustur","lineNameShort":"Plustur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Flextur","internalName":"Flextur","line":"Flextur","lineId":"051_280_FX_Flextur","catOut":"Flextur","cls":"256","operatorCode":"NT","operator":"NT"},"lineId":"051_280_FX_Flextur","lineName":"Flextur","lineNameShort":"Flextur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Plustur","internalName":"Plustur","line":"Plustur","lineId":"051_280_FX_Plustur","catOut":"Flextur","cls":"256","operatorCode":"NT","operator":"NT"},"lineId":"051_280_FX_Plustur","lineName":"Plustur","lineNameShort":"Plustur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Flextur","internalName":"Flextur","line":"Flextur","lineId":"051_245_FX_Flextur","catOut":"Flextur","cls":"256","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"051_245_FX_Flextur","lineName":"Flextur","lineNameShort":"Flextur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"Sydtrafik","nameS":"SYD","nameN":"SYD","nameL":"Sydtrafik"},"name":"Plustur","internalName":"Plustur","line":"Plustur","lineId":"051_245_FX_Plustur","catOut":"Flextur","cls":"256","operatorCode":"SYD","operator":"Sydtrafik"},"lineId":"051_245_FX_Plustur","lineName":"Plustur","lineNameShort":"Plustur"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Telebus 325","internalName":"Telebus 325","line":"325","lineId":"011_280_00_325","catOut":"TELEBUS","cls":"256","operatorCode":"NT","operator":"NT"},"lineId":"011_280_00_325","lineName":"Telebus 325","lineNameShort":"325"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Telebus 332","internalName":"Telebus 332","line":"332","lineId":"011_280_00_332","catOut":"TELEBUS","cls":"256","operatorCode":"NT","operator":"NT"},"lineId":"011_280_00_332","lineName":"Telebus 332","lineNameShort":"332"},{"Product":{"icon":{"res":"prod_bus"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Telebus 335","internalName":"Telebus 335","line":"335","lineId":"011_280_00_335","catOut":"TELEBUS","cls":"256","operatorCode":"NT","operator":"NT"},"lineId":"011_280_00_335","lineName":"Telebus 335","lineNameShort":"335"},{"Product":{"icon":{"res":"prod_ship"},"operatorInfo":{"name":"Mols-Linien","nameS":"ML","nameN":"ML","nameL":"Mols-Linien"},"name":"Færge","internalName":"Færge","line":"Færge","lineId":"010_112____Fe6rge","catOut":"Færge","cls":"512","operatorCode":"ML","operator":"Mols-Linien"},"lineId":"010_112____Fe6rge","lineName":"Færge","lineNameShort":"Færge"},{"Product":{"icon":{"res":"prod_ship"},"operatorInfo":{"name":"NT","nameS":"NT","nameN":"NT","nameL":"NT"},"name":"Færge","internalName":"Færge","line":"Læsø","lineId":"010_280_00_Le6sf8","catOut":"Færge","cls":"512","operatorCode":"NT","operator":"NT"},"lineId":"010_280_00_Le6sf8","lineName":"Færge","lineNameShort":"Læsø"},{"Product":{"icon":{"res":"prod_ship"},"operatorInfo":{"name":"Samsø Rederi","nameS":"SaR","nameN":"SaR","nameL":"Samsø Rederi"},"name":"Færge","internalName":"Færge","line":"Samsø Re","lineId":"010_651____Samsf8Re","catOut":"Færge","cls":"512","operatorCode":"SaR","operator":"Samsø Rederi"},"lineId":"010_651____Samsf8Re","lineName":"Færge","lineNameShort":"Samsø Re"},{"Product":{"icon":{"res":"prod_ship"},"operatorInfo":{"name":"Svendborg Havn, Færge- og Sundfart","nameS":"SHF","nameN":"SHF","nameL":"Svendborg Havn, Færge- og Sundfart"},"name":"Færge","internalName":"Færge","line":"M/F Høje","lineId":"010_603____M/FHf8je","catOut":"Færge","cls":"512","operatorCode":"SHF","operator":"Svendborg Havn, Færge- og Sundfart"},"lineId":"010_603____M/FHf8je","lineName":"Færge","lineNameShort":"M/F Høje"},{"Product":{"icon":{"res":"prod_ship"},"operatorInfo":{"name":"ÆrøXpressen A/S","nameS":"ÆrX","nameN":"ÆrX","nameL":"ÆrøXpressen A/S"},"name":"Færge","internalName":"Færge","line":"ÆrøXpres","lineId":"010_619____c6rf8Xpres","catOut":"Færge","cls":"512","operatorCode":"ÆrX","operator":"ÆrøXpressen A/S"},"lineId":"010_619____c6rf8Xpres","lineName":"Færge","lineNameShort":"ÆrøXpres"}],"TechnicalMessages":{"TechnicalMessage":[{"value":"2025-03-18 16:25:16","key":"requestTime"},{"value":"ttp=16514#16592 plancode0=3lwy2 planid=1742304412 planid0=1742304412 planid_adr=1742285796 plancode_adr=3lily planid_poi=1737365799 plancode_poi=0n2bd srvv=5.45.Rejseplanen.17.2.6 (customer/hcudk/release/2025.1.1.0) [2025-02-10] tlibv=TRFVER: rel/dk/11.00.8 2025-02-10 16:37:34 +0100 Rejsekort v11.0.8 jno=1","key":"backendInfo"}]},"serverVersion":"2.45.2","dialectVersion":"2.45-Rejseplanen","requestId":"request12345"}
+{
+    "Departure": [
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36667#TA#8#DA#60525#1S#851030602#1T#1726#LS#851074201#LT#1828#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851030602#FT#1726#TO#851074201#TT#1828#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "420",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "27819"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "420",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 40,
+                    "routeIdxTo": 50,
+                    "matchId": "27819"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 50,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 50,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 50,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 50,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "27819",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 50,
+                        "txtN": "27819"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908243@Y=57033005@U=86@L=851003501@",
+            "stopExtId": "851003501",
+            "lon": 9.908243,
+            "lat": 57.033005,
+            "prognosisType": "PROGNOSED",
+            "time": "18:15:00",
+            "date": "2025-05-06",
+            "rtTime": "18:20:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "City Syd",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#9838#TA#1#DA#60525#1S#861000101#1T#1718#LS#851100102#LT#1823#PU#86#RT#1#CA#013#ZE#52#ZB#Bus    52#PC#5#FR#861000101#FT#1718#TO#851100102#TT#1823#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bus 52",
+                "internalName": "Bus    52",
+                "displayNumber": "52",
+                "num": "1046",
+                "line": "52",
+                "lineId": "013_280_00_52",
+                "catOut": "Bus",
+                "catIn": "013",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "013",
+                "catOutL": "Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "23477"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bus 52",
+                    "internalName": "Bus    52",
+                    "displayNumber": "52",
+                    "num": "1046",
+                    "line": "52",
+                    "lineId": "013_280_00_52",
+                    "catOut": "Bus",
+                    "catIn": "013",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "013",
+                    "catOutL": "Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 57,
+                    "routeIdxTo": 59,
+                    "matchId": "23477"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 57,
+                        "routeIdxTo": 59,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "A7B1B7",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 57,
+                        "routeIdxTo": 59,
+                        "txtN": "A7B1B7"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 57,
+                        "routeIdxTo": 59,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 57,
+                        "routeIdxTo": 59,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23477",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 57,
+                        "routeIdxTo": 59,
+                        "txtN": "23477"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bus 52",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "prognosisType": "PROGNOSED",
+            "time": "18:17:00",
+            "date": "2025-05-06",
+            "rtTime": "18:25:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Aalborg St.",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#9821#TA#0#DA#60525#1S#851100104#1T#1815#LS#861000101#LT#1919#PU#86#RT#1#CA#013#ZE#52#ZB#Bus    52#PC#5#FR#851100104#FT#1815#TO#861000101#TT#1919#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bus 52",
+                "internalName": "Bus    52",
+                "displayNumber": "52",
+                "num": "1073",
+                "line": "52",
+                "lineId": "013_280_00_52",
+                "catOut": "Bus",
+                "catIn": "013",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "013",
+                "catOutL": "Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "23497"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bus 52",
+                    "internalName": "Bus    52",
+                    "displayNumber": "52",
+                    "num": "1073",
+                    "line": "52",
+                    "lineId": "013_280_00_52",
+                    "catOut": "Bus",
+                    "catIn": "013",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "013",
+                    "catOutL": "Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 2,
+                    "routeIdxTo": 58,
+                    "matchId": "23497"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 58,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "A7B1B7",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 58,
+                        "txtN": "A7B1B7"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 58,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 58,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23497",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 58,
+                        "txtN": "23497"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bus 52",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908243@Y=57033005@U=86@L=851003501@",
+            "stopExtId": "851003501",
+            "lon": 9.908243,
+            "lat": 57.033005,
+            "prognosisType": "PROGNOSED",
+            "time": "18:19:00",
+            "date": "2025-05-06",
+            "rtTime": "18:21:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Aars",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36832#TA#7#DA#60525#1S#851983801#1T#1752#LS#851052702#LT#1830#PU#86#RT#1#CA#028#ZE#14#ZB#Bybus 14#PC#5#FR#851983801#FT#1752#TO#851052702#TT#1830#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 14",
+                "internalName": "Bybus 14",
+                "displayNumber": "14",
+                "num": "911",
+                "line": "14",
+                "lineId": "028_280_06_14",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23953"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 14",
+                    "internalName": "Bybus 14",
+                    "displayNumber": "14",
+                    "num": "911",
+                    "line": "14",
+                    "lineId": "028_280_06_14",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 16,
+                    "routeIdxTo": 28,
+                    "matchId": "23953"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 16,
+                        "routeIdxTo": 28,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 16,
+                        "routeIdxTo": 28,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 16,
+                        "routeIdxTo": 28,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 16,
+                        "routeIdxTo": 28,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23953",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 16,
+                        "routeIdxTo": 28,
+                        "txtN": "23953"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 14",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9907659@Y=57033994@U=86@L=851003504@",
+            "stopExtId": "851003504",
+            "lon": 9.907659,
+            "lat": 57.033994,
+            "time": "18:19:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Skelagervej",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36727#TA#0#DA#60525#1S#851052701#1T#1813#LS#851983802#LT#1852#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#851052701#FT#1813#TO#851983802#TT#1852#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "516",
+                "line": "11",
+                "lineId": "028_280_06_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14500"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "516",
+                    "line": "11",
+                    "lineId": "028_280_06_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 6,
+                    "routeIdxTo": 24,
+                    "matchId": "14500"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14500",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "14500"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908818@Y=57033707@U=86@L=851003505@",
+            "stopExtId": "851003505",
+            "lon": 9.908818,
+            "lat": 57.033707,
+            "time": "18:20:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Troensevej",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36647#TA#9#DA#60525#1S#851060402#1T#1802#LS#817300101#LT#1925#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851060402#FT#1802#TO#817300101#TT#1925#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "363",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "24640"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "363",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 19,
+                    "routeIdxTo": 64,
+                    "matchId": "24640"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "24640",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "24640"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "prognosisType": "PROGNOSED",
+            "time": "18:22:00",
+            "date": "2025-05-06",
+            "rtTime": "18:24:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Hals",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36715#TA#0#DA#60525#1S#851071102#1T#1759#LS#851030601#LT#1904#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851071102#FT#1759#TO#851030601#TT#1904#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "48",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10252"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "48",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 27,
+                    "routeIdxTo": 66,
+                    "matchId": "10252"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 66,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 66,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 66,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 66,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10252",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 66,
+                        "txtN": "10252"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "prognosisType": "PROGNOSED",
+            "time": "18:22:00",
+            "date": "2025-05-06",
+            "rtTime": "18:24:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Langholt",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36860#TA#21#DA#60525#1S#851074202#1T#1801#LS#851011901#LT#1849#PU#86#RT#1#CA#028#ZE#16#ZB#Bybus 16#PC#5#FR#851074202#FT#1801#TO#851011901#TT#1849#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 16",
+                "internalName": "Bybus 16",
+                "displayNumber": "16",
+                "num": "1240",
+                "line": "16",
+                "lineId": "028_280_06_16",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10331"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 16",
+                    "internalName": "Bybus 16",
+                    "displayNumber": "16",
+                    "num": "1240",
+                    "line": "16",
+                    "lineId": "028_280_06_16",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 21,
+                    "routeIdxTo": 34,
+                    "matchId": "10331"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10331",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "10331"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 16",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908818@Y=57033707@U=86@L=851003505@",
+            "stopExtId": "851003505",
+            "lon": 9.908818,
+            "lat": 57.033707,
+            "prognosisType": "PROGNOSED",
+            "time": "18:22:00",
+            "date": "2025-05-06",
+            "rtTime": "18:23:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Uttrup Nord",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36660#TA#8#DA#60525#1S#851032402#1T#1733#LS#851071101#LT#1852#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851032402#FT#1733#TO#851071101#TT#1852#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "408",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "27567"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "408",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 46,
+                    "routeIdxTo": 73,
+                    "matchId": "27567"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 46,
+                        "routeIdxTo": 73,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 46,
+                        "routeIdxTo": 73,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 46,
+                        "routeIdxTo": 73,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 46,
+                        "routeIdxTo": 73,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "27567",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 46,
+                        "routeIdxTo": 73,
+                        "txtN": "27567"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908243@Y=57033005@U=86@L=851003501@",
+            "stopExtId": "851003501",
+            "lon": 9.908243,
+            "lat": 57.033005,
+            "prognosisType": "PROGNOSED",
+            "time": "18:25:00",
+            "date": "2025-05-06",
+            "rtTime": "18:26:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Godthåb",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36746#TA#0#DA#60525#1S#851983801#1T#1805#LS#851052702#LT#1841#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#851983801#FT#1805#TO#851052702#TT#1841#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "456",
+                "line": "11",
+                "lineId": "028_280_06_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14631"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "456",
+                    "line": "11",
+                    "lineId": "028_280_06_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 19,
+                    "routeIdxTo": 25,
+                    "matchId": "14631"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14631",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "14631"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9907659@Y=57033994@U=86@L=851003504@",
+            "stopExtId": "851003504",
+            "lon": 9.907659,
+            "lat": 57.033994,
+            "prognosisType": "PROGNOSED",
+            "time": "18:32:00",
+            "date": "2025-05-06",
+            "rtTime": "18:35:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Skelagervej",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36836#TA#10#DA#60525#1S#837900302#1T#1746#LS#851052702#LT#1845#PU#86#RT#1#CA#028#ZE#14#ZB#Bybus 14#PC#5#FR#837900302#FT#1746#TO#851052702#TT#1845#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 14",
+                "internalName": "Bybus 14",
+                "displayNumber": "14",
+                "num": "883",
+                "line": "14",
+                "lineId": "028_280_06_14",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "23939"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 14",
+                    "internalName": "Bybus 14",
+                    "displayNumber": "14",
+                    "num": "883",
+                    "line": "14",
+                    "lineId": "028_280_06_14",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 30,
+                    "routeIdxTo": 42,
+                    "matchId": "23939"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 42,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 42,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 42,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 42,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23939",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 30,
+                        "routeIdxTo": 42,
+                        "txtN": "23939"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 14",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9907659@Y=57033994@U=86@L=851003504@",
+            "stopExtId": "851003504",
+            "lon": 9.907659,
+            "lat": 57.033994,
+            "time": "18:34:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Skelagervej",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36874#TA#0#DA#60525#1S#851011902#1T#1809#LS#851074201#LT#1852#PU#86#RT#1#CA#028#ZE#16#ZB#Bybus 16#PC#5#FR#851011902#FT#1809#TO#851074201#TT#1852#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 16",
+                "internalName": "Bybus 16",
+                "displayNumber": "16",
+                "num": "1160",
+                "line": "16",
+                "lineId": "028_280_06_16",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10392"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 16",
+                    "internalName": "Bybus 16",
+                    "displayNumber": "16",
+                    "num": "1160",
+                    "line": "16",
+                    "lineId": "028_280_06_16",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 35,
+                    "matchId": "10392"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10392",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "10392"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 16",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9909322@Y=57033221@U=86@L=851003503@",
+            "stopExtId": "851003503",
+            "lon": 9.909322,
+            "lat": 57.033221,
+            "time": "18:34:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "City Syd",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#11452#TA#0#DA#60525#1S#851100104#1T#1748#LS#851100102#LT#1842#PU#86#RT#1#CA#023#ZE#60X#ZB#X Bus 60X#PC#6#FR#851100104#FT#1748#TO#851100102#TT#1842#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "X Bus 60X",
+                "internalName": "X Bus 60X",
+                "displayNumber": "60X",
+                "num": "1344",
+                "line": "60X",
+                "lineId": "023_280_00_60X",
+                "catOut": "X Bus",
+                "catIn": "023",
+                "catCode": "6",
+                "cls": "64",
+                "catOutS": "023",
+                "catOutL": "X Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "15152"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "X Bus 60X",
+                    "internalName": "X Bus 60X",
+                    "displayNumber": "60X",
+                    "num": "1344",
+                    "line": "60X",
+                    "lineId": "023_280_00_60X",
+                    "catOut": "X Bus",
+                    "catIn": "023",
+                    "catCode": "6",
+                    "cls": "64",
+                    "catOutS": "023",
+                    "catOutL": "X Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 19,
+                    "routeIdxTo": 21,
+                    "matchId": "15152"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 21,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "007AC2",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 21,
+                        "txtN": "007AC2"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 21,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 21,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "15152",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 21,
+                        "txtN": "15152"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "X Bus 60X",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "time": "18:35:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Aalborg",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36688#TA#8#DA#60525#1S#817300102#1T#1736#LS#851060401#LT#1854#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#817300102#FT#1736#TO#851060401#TT#1854#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "18",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "27454"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "18",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 49,
+                    "routeIdxTo": 67,
+                    "matchId": "27454"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 49,
+                        "routeIdxTo": 67,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 49,
+                        "routeIdxTo": 67,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 49,
+                        "routeIdxTo": 67,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 49,
+                        "routeIdxTo": 67,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "27454",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 49,
+                        "routeIdxTo": 67,
+                        "txtN": "27454"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908243@Y=57033005@U=86@L=851003501@",
+            "stopExtId": "851003501",
+            "lon": 9.908243,
+            "lat": 57.033005,
+            "time": "18:35:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Ferslev",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36663#TA#0#DA#60525#1S#851074201#1T#1825#LS#851920102#LT#1841#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851074201#FT#1825#TO#851920102#TT#1841#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "293",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "27501"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "293",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 10,
+                    "routeIdxTo": 12,
+                    "matchId": "27501"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 10,
+                        "routeIdxTo": 12,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 10,
+                        "routeIdxTo": 12,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 10,
+                        "routeIdxTo": 12,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 10,
+                        "routeIdxTo": 12,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "27501",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 10,
+                        "routeIdxTo": 12,
+                        "txtN": "27501"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "time": "18:36:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Aalborg St.",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36811#TA#0#DA#60525#1S#851052701#1T#1827#LS#837900301#LT#1926#PU#86#RT#1#CA#028#ZE#14#ZB#Bybus 14#PC#5#FR#851052701#FT#1827#TO#837900301#TT#1926#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 14",
+                "internalName": "Bybus 14",
+                "displayNumber": "14",
+                "num": "989",
+                "line": "14",
+                "lineId": "028_280_06_14",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14627"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 14",
+                    "internalName": "Bybus 14",
+                    "displayNumber": "14",
+                    "num": "989",
+                    "line": "14",
+                    "lineId": "028_280_06_14",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 44,
+                    "matchId": "14627"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 44,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 44,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 44,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 44,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14627",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 44,
+                        "txtN": "14627"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 14",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908818@Y=57033707@U=86@L=851003505@",
+            "stopExtId": "851003505",
+            "lon": 9.908818,
+            "lat": 57.033707,
+            "time": "18:37:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Storvorde",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36708#TA#0#DA#60525#1S#851920101#1T#1845#LS#851074201#LT#1858#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851920101#FT#1845#TO#851074201#TT#1858#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "110",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "27469"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "110",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 2,
+                    "routeIdxTo": 12,
+                    "matchId": "27469"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 12,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 12,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 12,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 12,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "27469",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 2,
+                        "routeIdxTo": 12,
+                        "txtN": "27469"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908243@Y=57033005@U=86@L=851003501@",
+            "stopExtId": "851003501",
+            "lon": 9.908243,
+            "lat": 57.033005,
+            "time": "18:49:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "City Syd",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36727#TA#1#DA#60525#1S#851052701#1T#1843#LS#851983802#LT#1922#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#851052701#FT#1843#TO#851983802#TT#1922#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "523",
+                "line": "11",
+                "lineId": "028_280_06_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14574"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "523",
+                    "line": "11",
+                    "lineId": "028_280_06_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 6,
+                    "routeIdxTo": 24,
+                    "matchId": "14574"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14574",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 6,
+                        "routeIdxTo": 24,
+                        "txtN": "14574"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908818@Y=57033707@U=86@L=851003505@",
+            "stopExtId": "851003505",
+            "lon": 9.908818,
+            "lat": 57.033707,
+            "time": "18:50:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Troensevej",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36694#TA#0#DA#60525#1S#851071102#1T#1829#LS#851032401#LT#1937#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851071102#FT#1829#TO#851032401#TT#1937#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "161",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "27837"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "161",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 27,
+                    "routeIdxTo": 73,
+                    "matchId": "27837"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 73,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 73,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 73,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 73,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "27837",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 27,
+                        "routeIdxTo": 73,
+                        "txtN": "27837"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "time": "18:52:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Grindsted",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36860#TA#22#DA#60525#1S#851074202#1T#1831#LS#851011901#LT#1919#PU#86#RT#1#CA#028#ZE#16#ZB#Bybus 16#PC#5#FR#851074202#FT#1831#TO#851011901#TT#1919#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 16",
+                "internalName": "Bybus 16",
+                "displayNumber": "16",
+                "num": "1230",
+                "line": "16",
+                "lineId": "028_280_06_16",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10332"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 16",
+                    "internalName": "Bybus 16",
+                    "displayNumber": "16",
+                    "num": "1230",
+                    "line": "16",
+                    "lineId": "028_280_06_16",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 21,
+                    "routeIdxTo": 34,
+                    "matchId": "10332"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10332",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 21,
+                        "routeIdxTo": 34,
+                        "txtN": "10332"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 16",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908818@Y=57033707@U=86@L=851003505@",
+            "stopExtId": "851003505",
+            "lon": 9.908818,
+            "lat": 57.033707,
+            "time": "18:52:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Uttrup Nord",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36746#TA#1#DA#60525#1S#851983801#1T#1835#LS#851052702#LT#1911#PU#86#RT#1#CA#028#ZE#11#ZB#Bybus 11#PC#5#FR#851983801#FT#1835#TO#851052702#TT#1911#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 11",
+                "internalName": "Bybus 11",
+                "displayNumber": "11",
+                "num": "427",
+                "line": "11",
+                "lineId": "028_280_06_11",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14576"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 11",
+                    "internalName": "Bybus 11",
+                    "displayNumber": "11",
+                    "num": "427",
+                    "line": "11",
+                    "lineId": "028_280_06_11",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 19,
+                    "routeIdxTo": 25,
+                    "matchId": "14576"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14576",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 25,
+                        "txtN": "14576"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 11",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9907659@Y=57033994@U=86@L=851003504@",
+            "stopExtId": "851003504",
+            "lon": 9.907659,
+            "lat": 57.033994,
+            "time": "19:02:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Skelagervej",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36651#TA#0#DA#60525#1S#851030602#1T#1818#LS#851071101#LT#1929#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851030602#FT#1818#TO#851071101#TT#1929#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "222",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10247"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "222",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 40,
+                    "routeIdxTo": 67,
+                    "matchId": "10247"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 67,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 67,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 67,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 67,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10247",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 40,
+                        "routeIdxTo": 67,
+                        "txtN": "10247"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908243@Y=57033005@U=86@L=851003501@",
+            "stopExtId": "851003501",
+            "lon": 9.908243,
+            "lat": 57.033005,
+            "time": "19:04:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Godthåb",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36826#TA#0#DA#60525#1S#851033602#1T#1816#LS#851052702#LT#1915#PU#86#RT#1#CA#028#ZE#14#ZB#Bybus 14#PC#5#FR#851033602#FT#1816#TO#851052702#TT#1915#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 14",
+                "internalName": "Bybus 14",
+                "displayNumber": "14",
+                "num": "932",
+                "line": "14",
+                "lineId": "028_280_06_14",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14459"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 14",
+                    "internalName": "Bybus 14",
+                    "displayNumber": "14",
+                    "num": "932",
+                    "line": "14",
+                    "lineId": "028_280_06_14",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 28,
+                    "routeIdxTo": 40,
+                    "matchId": "14459"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 28,
+                        "routeIdxTo": 40,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 28,
+                        "routeIdxTo": 40,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 28,
+                        "routeIdxTo": 40,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 28,
+                        "routeIdxTo": 40,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14459",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 28,
+                        "routeIdxTo": 40,
+                        "txtN": "14459"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 14",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9907659@Y=57033994@U=86@L=851003504@",
+            "stopExtId": "851003504",
+            "lon": 9.907659,
+            "lat": 57.033994,
+            "time": "19:04:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Skelagervej",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36874#TA#1#DA#60525#1S#851011902#1T#1839#LS#851074201#LT#1922#PU#86#RT#1#CA#028#ZE#16#ZB#Bybus 16#PC#5#FR#851011902#FT#1839#TO#851074201#TT#1922#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 16",
+                "internalName": "Bybus 16",
+                "displayNumber": "16",
+                "num": "1152",
+                "line": "16",
+                "lineId": "028_280_06_16",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "10393"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 16",
+                    "internalName": "Bybus 16",
+                    "displayNumber": "16",
+                    "num": "1152",
+                    "line": "16",
+                    "lineId": "028_280_06_16",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 35,
+                    "matchId": "10393"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "10393",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 35,
+                        "txtN": "10393"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 16",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9909322@Y=57033221@U=86@L=851003503@",
+            "stopExtId": "851003503",
+            "lon": 9.909322,
+            "lat": 57.033221,
+            "time": "19:04:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "City Syd",
+            "directionFlag": "2"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36643#TA#0#DA#60525#1S#851060402#1T#1849#LS#817300101#LT#2006#PU#86#RT#1#CA#028#ZE#1#ZB#Bybus 1#PC#5#FR#851060402#FT#1849#TO#817300101#TT#2006#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 1",
+                "internalName": "Bybus 1",
+                "displayNumber": "1",
+                "num": "316",
+                "line": "1",
+                "lineId": "028_280_06_1",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "24682"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 1",
+                    "internalName": "Bybus 1",
+                    "displayNumber": "1",
+                    "num": "316",
+                    "line": "1",
+                    "lineId": "028_280_06_1",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 19,
+                    "routeIdxTo": 64,
+                    "matchId": "24682"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "24682",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 19,
+                        "routeIdxTo": 64,
+                        "txtN": "24682"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 1",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "time": "19:06:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Hals",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#36819#TA#0#DA#60525#1S#851052701#1T#1857#LS#851033601#LT#1953#PU#86#RT#1#CA#028#ZE#14#ZB#Bybus 14#PC#5#FR#851052701#FT#1857#TO#851033601#TT#1953#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bybus 14",
+                "internalName": "Bybus 14",
+                "displayNumber": "14",
+                "num": "973",
+                "line": "14",
+                "lineId": "028_280_06_14",
+                "catOut": "Bybus",
+                "catIn": "028",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "028",
+                "catOutL": "Bybus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_06",
+                "matchId": "14495"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bybus 14",
+                    "internalName": "Bybus 14",
+                    "displayNumber": "14",
+                    "num": "973",
+                    "line": "14",
+                    "lineId": "028_280_06_14",
+                    "catOut": "Bybus",
+                    "catIn": "028",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "028",
+                    "catOutL": "Bybus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_06",
+                    "routeIdxFrom": 13,
+                    "routeIdxTo": 41,
+                    "matchId": "14495"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 41,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "F8951F",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 41,
+                        "txtN": "F8951F"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 41,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 41,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "14495",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 13,
+                        "routeIdxTo": 41,
+                        "txtN": "14495"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bybus 14",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908818@Y=57033707@U=86@L=851003505@",
+            "stopExtId": "851003505",
+            "lon": 9.908818,
+            "lat": 57.033707,
+            "time": "19:07:00",
+            "date": "2025-05-06",
+            "reachable": true,
+            "direction": "Klarup",
+            "directionFlag": "1"
+        },
+        {
+            "JourneyDetailRef": {
+                "ref": "2|#VN#1#ST#1746530144#PI#0#ZI#9847#TA#0#DA#60525#1S#820681002#1T#1755#LS#851100102#LT#1923#PU#86#RT#1#CA#013#ZE#52#ZB#Bus    52#PC#5#FR#820681002#FT#1755#TO#851100102#TT#1923#"
+            },
+            "JourneyStatus": "P",
+            "ProductAtStop": {
+                "icon": {
+                    "res": "prod_bus"
+                },
+                "operatorInfo": {
+                    "name": "NT",
+                    "nameS": "NT",
+                    "nameN": "NT",
+                    "nameL": "NT"
+                },
+                "name": "Bus 52",
+                "internalName": "Bus    52",
+                "displayNumber": "52",
+                "num": "1055",
+                "line": "52",
+                "lineId": "013_280_00_52",
+                "catOut": "Bus",
+                "catIn": "013",
+                "catCode": "5",
+                "cls": "32",
+                "catOutS": "013",
+                "catOutL": "Bus",
+                "operatorCode": "NT",
+                "operator": "NT",
+                "admin": "280_00",
+                "matchId": "23462"
+            },
+            "Product": [
+                {
+                    "icon": {
+                        "res": "prod_bus"
+                    },
+                    "operatorInfo": {
+                        "name": "NT",
+                        "nameS": "NT",
+                        "nameN": "NT",
+                        "nameL": "NT"
+                    },
+                    "name": "Bus 52",
+                    "internalName": "Bus    52",
+                    "displayNumber": "52",
+                    "num": "1055",
+                    "line": "52",
+                    "lineId": "013_280_00_52",
+                    "catOut": "Bus",
+                    "catIn": "013",
+                    "catCode": "5",
+                    "cls": "32",
+                    "catOutS": "013",
+                    "catOutL": "Bus",
+                    "operatorCode": "NT",
+                    "operator": "NT",
+                    "admin": "280_00",
+                    "routeIdxFrom": 69,
+                    "routeIdxTo": 71,
+                    "matchId": "23462"
+                }
+            ],
+            "Notes": {
+                "Note": [
+                    {
+                        "value": "Cykelmedtagning gratis",
+                        "key": "FR",
+                        "type": "A",
+                        "priority": 99,
+                        "routeIdxFrom": 69,
+                        "routeIdxTo": 71,
+                        "txtN": "Cykelmedtagning gratis"
+                    },
+                    {
+                        "value": "A7B1B7",
+                        "key": "CT",
+                        "type": "I",
+                        "routeIdxFrom": 69,
+                        "routeIdxTo": 71,
+                        "txtN": "A7B1B7"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "PU",
+                        "type": "I",
+                        "routeIdxFrom": 69,
+                        "routeIdxTo": 71,
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "2009",
+                        "key": "bp",
+                        "type": "I",
+                        "routeIdxFrom": 69,
+                        "routeIdxTo": 71,
+                        "txtN": "2009"
+                    },
+                    {
+                        "value": "23462",
+                        "key": "FD",
+                        "type": "I",
+                        "routeIdxFrom": 69,
+                        "routeIdxTo": 71,
+                        "txtN": "23462"
+                    },
+                    {
+                        "key": "FB",
+                        "type": "A"
+                    },
+                    {
+                        "value": "5001",
+                        "key": "TN",
+                        "type": "I",
+                        "txtN": "5001"
+                    },
+                    {
+                        "value": "NT",
+                        "key": "TP",
+                        "type": "I",
+                        "txtN": "NT"
+                    },
+                    {
+                        "value": "NT 001",
+                        "key": "TR",
+                        "type": "I",
+                        "txtN": "NT 001"
+                    },
+                    {
+                        "value": "1",
+                        "key": "TW",
+                        "type": "I",
+                        "txtN": "1"
+                    }
+                ]
+            },
+            "name": "Bus 52",
+            "type": "ST",
+            "stop": "Skipperen (Hobrovej / Aalborg)",
+            "stopid": "A=1@O=Skipperen (Hobrovej / Aalborg)@X=9908989@Y=57033985@U=86@L=851003502@",
+            "stopExtId": "851003502",
+            "lon": 9.908989,
+            "lat": 57.033985,
+            "prognosisType": "PROGNOSED",
+            "time": "19:17:00",
+            "date": "2025-05-06",
+            "rtTime": "19:20:00",
+            "rtDate": "2025-05-06",
+            "reachable": true,
+            "direction": "Aalborg St.",
+            "directionFlag": "2"
+        }
+    ],
+    "TechnicalMessages": {
+        "TechnicalMessage": [
+            {
+                "value": "2025-05-06 18:18:51",
+                "key": "requestTime"
+            },
+            {
+                "value": "ttp=16563#16648 plancode0=54hki planid=1746530144 planid0=1746530144 planid_adr=1746438686 plancode_adr=52iz0 planid_poi=1746518115 plancode_poi=538ad srvv=5.45.Rejseplanen.17.3.7 (customer/hcudk/release/2025.2.0.0) [2025-03-04] tlibv=TRFVER: rel/dk/11.00.8 2025-02-10 16:37:34 +0100 Rejsekort v11.0.8 jno=1",
+                "key": "backendInfo"
+            },
+            {
+                "value": "lineId",
+                "key": "unmappedQueryParams"
+            }
+        ]
+    },
+    "serverVersion": "2.49.1",
+    "dialectVersion": "2.45-Rejseplanen",
+    "planRtTs": "2025-05-06T18:18:35.000+02:00",
+    "requestId": "request12345"
+}
